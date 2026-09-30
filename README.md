@@ -63,5 +63,5 @@ Para ejecutar e inspeccionar las pruebas realizadas en este proyecto desde Postm
 
 1. **Clonar el repositorio localmente:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[TU-USUARIO]/taller-postman-[TUAPELLIDO].git
-   cd taller-postman-[TUAPELLIDO]
+   git clone [https://github.com/](https://github.com/)Jane911/taller-postman-SUAREZ.git
+   cd taller-postman-SUAREZ
